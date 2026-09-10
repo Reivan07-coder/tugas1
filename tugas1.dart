@@ -21,7 +21,7 @@ void main() {
   String nama = "Martin Grey";
   int umur = 20;
   double berat = 60.5;
-  double tinggi = 170.2;
+  num tinggi = 170.2;
   double tinggiM = tinggi / 100;
   double bmi = 35;
 
